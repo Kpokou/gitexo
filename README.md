@@ -1,2 +1,3 @@
 # Mon oeuvre d'art surréaliste :pencil2:
-je mange du caviar
+Je mange du caviar.
+Je bois ensuite du vin.
